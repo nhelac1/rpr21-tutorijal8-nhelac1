@@ -1,4 +1,4 @@
-package ba.unsa.etf.rpr.tutorijal8;
+/*package ba.unsa.etf.rpr.tutorijal8;
 
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.function.Executable;
@@ -110,4 +110,4 @@ class TutorijalTest {
             e.printStackTrace();
         }
     }
-}
+} */
